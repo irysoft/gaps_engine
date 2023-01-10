@@ -1,2 +1,2 @@
 # gaps_engine
-GAPS Engine from Digital7 OpenGL FREE Course
+GAPS Engine - OpenGL FREE Course
